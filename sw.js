@@ -2,6 +2,7 @@ var cacheName = 'bicycle';
 var filesToCache = [
     '/',
     '/index.html',
+    '/images/',
     '/js/main.js'
 ];
 
